@@ -1,4 +1,6 @@
 # ZoroToMAL
+DISCLAIMER: IT WILL OVERWRITE ANY ANIME INFORMATION ALREADY ON MAL.
+
 When you download the Python file, place it in a folder with the export.txt file that Zoro/AniWatch/HiAnime gives you and make sure it's a text file
 
 https://aniwatchtv.to/user/mal?tab=export
