@@ -8,6 +8,7 @@ https://hianimez.to/user/mal?tab=export
 ![image](https://github.com/user-attachments/assets/33470dc2-9441-4f3e-85d7-6d6dd26648f4)
 
 Run the script and it should give you a import.xml file
+
 ![image](https://github.com/user-attachments/assets/402bda25-7568-4dd2-b726-41a114dc4268)
 
 then go to the MAL import page, set it to MyAnimeList Import and then add the import.xml file
