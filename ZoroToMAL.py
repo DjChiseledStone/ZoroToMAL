@@ -1,5 +1,5 @@
-file = open("export.txt", "r")
-importFile = open("import.xml", "w")
+file = open("export.txt", "r", encoding="utf-8")
+importFile = open("import.xml", "w", encoding="utf-8")
 status = ""
 animeCode = ""
 
@@ -11,7 +11,7 @@ importFile.write("""<?xml version="1.0" encoding="UTF-8" ?>
 for line in file:
     line = line.strip()
     sep = line.split("/")
-    if sep[-1] == "# Plan to watch":
+    if sep[-1] == "# Plan to Watch":
         status = "Plan to Watch"
     elif sep[-1] == "# Completed":
         status = "Completed"
