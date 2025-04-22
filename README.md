@@ -3,11 +3,14 @@ DISCLAIMER: IT WILL OVERWRITE ANY ANIME INFORMATION ALREADY ON MAL.
 
 When you download the Python file, place it in a folder with the export.txt file that Zoro/AniWatch/HiAnime gives you and make sure it's a text file
 
-https://aniwatchtv.to/user/mal?tab=export
-https://hianime.to/user/mal?tab=export
+https://hianimez.to/user/mal?tab=export
 
-Run the script and it should give you a import.xml file then go to the MAL import page, set it to MyAnimeList Import and then add the import.xml file
+![image](https://github.com/user-attachments/assets/33470dc2-9441-4f3e-85d7-6d6dd26648f4)
 
+Run the script and it should give you a import.xml file
+![image](https://github.com/user-attachments/assets/402bda25-7568-4dd2-b726-41a114dc4268)
+
+then go to the MAL import page, set it to MyAnimeList Import and then add the import.xml file
 https://myanimelist.net/import.php
 
 
